@@ -1,0 +1,63 @@
+.main-navigation ul li.current-menu-item > a, 
+.main-navigation ul li a:hover,
+.layer-1 h5,
+.main-slider .controls .fa,
+.cycle-pager span,
+.picker_close, 
+.picker_close:hover, 
+.picker_close:focus,
+.color-switcher .font-family li.active a, 
+.color-switcher .font-family li a:hover,
+.blog-wrapper .blog-content .blog-title h4:hover, 
+.blog-wrapper .blog-content .entry-header .entry-title:hover,
+.address-block .fa,
+.banner-wrapper .page-title h1,
+.single-post .blog-wrapper .blog-content .posted-on time:hover, 
+.single-post .blog-wrapper .blog-content .comment-value a:hover,
+.comments .time .reply a,
+.loader-container .fa,
+.site-footer a:hover,
+.address-block li a:hover {
+    color: #f23f30;
+}
+.cycle-pager .cycle-pager-active {
+    color: #F10402;
+}
+.backtotop,
+.btn.fill .btn-show,
+li .wide, 
+li .boxed,
+form .btn-contact {
+    background-color: #f23f30;
+}
+.btn.fill .btn-hide {
+    background-color: rgb(158, 12, 5);
+}
+.red-overlay {
+    background-color: rgba(236, 71, 52, 0.61);
+}
+#instagram .red-overlay,
+.tp-portfolio .red-overlay {
+    background-color: rgba(236, 71, 52, 0.85);
+}
+.portfolio-filter li .active,
+.portfolio-filter li a:hover {
+    color: #f23f30;
+    border-bottom: 3px solid #f23f30;
+}
+.blog-content blockquote .fa {
+    color: #f23f30;
+    border: 1px solid #f23f30;
+}
+.form-group input:focus, 
+.form-group textarea:focus {
+    border-color: #f23f30;
+}
+.btn.border {
+    border: 2px solid #f23f30;
+    color: #f23f30;
+}
+.btn.border:hover {
+    background-color: #f23f30;
+    color: #fff;
+}

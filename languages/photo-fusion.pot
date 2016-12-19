@@ -1,0 +1,665 @@
+# Copyright (C) 2016 Theme Palace
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Photo Fusion 0.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2016-12-18 09:04:14+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+
+#: 404.php:19
+msgid "404"
+msgstr ""
+
+#: 404.php:20
+msgid "You have some problems"
+msgstr ""
+
+#: 404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the "
+"links below or a search?"
+msgstr ""
+
+#: 404.php:23
+msgid "Go Home"
+msgstr ""
+
+#: comments.php:18
+msgid "Name*"
+msgstr ""
+
+#: comments.php:19
+msgid "Email*"
+msgstr ""
+
+#: comments.php:20
+msgid "Website"
+msgstr ""
+
+#: comments.php:27
+msgid "Comments*"
+msgstr ""
+
+#: comments.php:28
+msgid "POST COMMENT"
+msgstr ""
+
+#: comments.php:60 comments.php:79
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:62 comments.php:82
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:63 comments.php:83
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:95
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:117
+msgid "%1$s"
+msgstr ""
+
+#: comments.php:119
+msgid "Reply"
+msgstr ""
+
+#: components/footer/site-info.php:5
+msgid "Powered by %1$s | Photo Fusion by %2$s"
+msgstr ""
+
+#: components/page/content-page.php:21 components/post/content-single.php:27
+msgid "Pages:"
+msgstr ""
+
+#: components/page/content-page.php:32
+#. translators: %s: Name of current post
+msgid "Edit %s"
+msgstr ""
+
+#: components/post/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: components/post/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: components/post/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: components/post/content-single.php:22
+#. translators: %s: Name of current post.
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: functions.php:56
+msgid "Primary Header Menu"
+msgstr ""
+
+#: functions.php:57
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:127
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:137
+msgid "Instagram Sidebar"
+msgstr ""
+
+#: functions.php:139
+msgid ""
+"This is an Instagram widget area. It typically appears above footer "
+"section. This widget works best with an Instagram widget."
+msgstr ""
+
+#: functions.php:148
+msgid "Footer %s"
+msgstr ""
+
+#: functions.php:295
+msgid "Gallery Thumbnail"
+msgstr ""
+
+#: functions.php:296
+msgid "Gallery Portrait Thumbnail"
+msgstr ""
+
+#: inc/core.php:49
+msgid "Note"
+msgstr ""
+
+#: inc/core.php:49
+msgid " The recommended size for image is 1350px by 760 while using it for slider"
+msgstr ""
+
+#: inc/customizer/customizer.php:38
+msgid "The recommended size for the logo is 120px by 70px."
+msgstr ""
+
+#: inc/customizer/customizer.php:45
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:46
+msgid "Photo Fusion Theme Options."
+msgstr ""
+
+#: inc/customizer/customizer.php:72
+msgid "Sections"
+msgstr ""
+
+#: inc/customizer/customizer.php:73
+msgid "Photo Fusion available sections."
+msgstr ""
+
+#: inc/customizer/customizer.php:97
+msgid "Reset all settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:98
+msgid ""
+"Caution: All settings will be reset to default. Refresh the page after "
+"clicking Save & Publish."
+msgstr ""
+
+#: inc/customizer/customizer.php:109
+msgid "Check to reset all settings"
+msgstr ""
+
+#: inc/customizer/defaults.php:36
+msgid "My Latest Work"
+msgstr ""
+
+#: inc/customizer/defaults.php:44
+msgid "Blog Posts"
+msgstr ""
+
+#: inc/customizer/defaults.php:49
+msgid "Get in touch <span class=\"color-green\">with us</span>"
+msgstr ""
+
+#: inc/customizer/defaults.php:58
+msgid "Copyright &copy; All rights reserved."
+msgstr ""
+
+#: inc/customizer/sections/about.php:13
+msgid "About Us"
+msgstr ""
+
+#: inc/customizer/sections/about.php:14
+msgid "about section options."
+msgstr ""
+
+#: inc/customizer/sections/about.php:25 inc/customizer/sections/blog.php:25
+#: inc/customizer/sections/photo-gallery.php:24
+#: inc/customizer/sections/portfolio.php:23
+#: inc/customizer/sections/slider.php:25
+msgid "Enable on"
+msgstr ""
+
+#: inc/customizer/sections/about.php:38
+msgid "Select About Source"
+msgstr ""
+
+#: inc/customizer/sections/about.php:52
+msgid "Select Page"
+msgstr ""
+
+#: inc/customizer/sections/blog.php:13
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer/sections/blog.php:14
+msgid "Blog section options."
+msgstr ""
+
+#: inc/customizer/sections/blog.php:38 inc/customizer/sections/slider.php:39
+msgid "Content Type"
+msgstr ""
+
+#: inc/customizer/sections/blog.php:53 inc/customizer/sections/portfolio.php:51
+#: inc/widgets/instagram.php:62
+msgid "Title"
+msgstr ""
+
+#: inc/customizer/sections/photo-gallery.php:12
+msgid "Photo Gallery"
+msgstr ""
+
+#: inc/customizer/sections/photo-gallery.php:13
+msgid "Photo gallery section options."
+msgstr ""
+
+#: inc/customizer/sections/photo-gallery.php:37
+#: inc/customizer/sections/portfolio.php:36
+msgid "Photo Gallery Source"
+msgstr ""
+
+#: inc/customizer/sections/photo-gallery.php:51
+#: inc/customizer/sections/portfolio.php:92
+msgid "Select Image Layout"
+msgstr ""
+
+#: inc/customizer/sections/photo-gallery.php:65
+#: inc/customizer/sections/portfolio.php:74
+msgid "No of Images"
+msgstr ""
+
+#: inc/customizer/sections/photo-gallery.php:66
+msgid "Max no of images is 15"
+msgstr ""
+
+#: inc/customizer/sections/photo-gallery.php:84
+#: inc/customizer/sections/portfolio.php:105
+msgid "Select category"
+msgstr ""
+
+#: inc/customizer/sections/portfolio.php:12
+msgid "Portfolio"
+msgstr ""
+
+#: inc/customizer/sections/slider.php:13
+msgid "Slider"
+msgstr ""
+
+#: inc/customizer/sections/slider.php:14
+msgid "Slider section options."
+msgstr ""
+
+#: inc/customizer/sections/slider.php:40
+msgid "Recommended slider image size is 1350x760 px"
+msgstr ""
+
+#: inc/customizer/sections/slider.php:57
+msgid "Page Slider #%s"
+msgstr ""
+
+#: inc/customizer/theme-options/custom-css.php:11
+msgid "Custom/Inline CSS"
+msgstr ""
+
+#: inc/customizer/theme-options/custom-css.php:13
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer/theme-options/custom-css.php:21
+msgid "Enter Custom CSS"
+msgstr ""
+
+#: inc/customizer/theme-options/excerpt.php:12
+msgid "Excerpt"
+msgstr ""
+
+#: inc/customizer/theme-options/excerpt.php:13
+msgid "Excerpt section options."
+msgstr ""
+
+#: inc/customizer/theme-options/excerpt.php:25
+msgid "Thumbnail Excerpt Length"
+msgstr ""
+
+#: inc/customizer/theme-options/excerpt.php:26
+msgid "Total words to be displayed."
+msgstr ""
+
+#: inc/customizer/theme-options/footer.php:12
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/theme-options/footer.php:13
+msgid "Footer section options."
+msgstr ""
+
+#: inc/customizer/theme-options/footer.php:25
+msgid "Copyright"
+msgstr ""
+
+#: inc/customizer/theme-options/homepage-static.php:12
+msgid "Homepage ( Static )"
+msgstr ""
+
+#: inc/customizer/theme-options/homepage-static.php:13
+msgid "Homepage ( Static ) section options."
+msgstr ""
+
+#: inc/customizer/theme-options/homepage-static.php:24
+msgid "Enable Content"
+msgstr ""
+
+#: inc/customizer/theme-options/homepage-static.php:25
+msgid "Check to enable content on static front page only."
+msgstr ""
+
+#: inc/customizer/theme-options/pagination.php:12
+msgid "Pagination"
+msgstr ""
+
+#: inc/customizer/theme-options/pagination.php:13
+msgid "Pagination options"
+msgstr ""
+
+#: inc/customizer/theme-options/pagination.php:24
+msgid "Check to enable pagination"
+msgstr ""
+
+#: inc/customizer/theme-options/pagination.php:36
+msgid "Pagination type ( Only on Archives )"
+msgstr ""
+
+#: inc/customizer/upgrade-to-pro/class-customize.php:76
+msgid "Photo Fusion Pro"
+msgstr ""
+
+#: inc/customizer/upgrade-to-pro/class-customize.php:77
+msgid "Go Pro"
+msgstr ""
+
+#: inc/customizer/validate.php:14
+msgid "You must supply a valid number."
+msgstr ""
+
+#: inc/customizer/validate.php:16
+msgid "Minimum excerpt length is 5"
+msgstr ""
+
+#: inc/customizer/validate.php:18
+msgid "Maximum excerpt length is 15"
+msgstr ""
+
+#: inc/options.php:17 inc/options.php:57
+msgid "Static Frontpage"
+msgstr ""
+
+#: inc/options.php:18
+msgid "Entire Site"
+msgstr ""
+
+#: inc/options.php:19 inc/options.php:58
+msgid "Disabled"
+msgstr ""
+
+#: inc/options.php:38 inc/options.php:118
+msgid "Page"
+msgstr ""
+
+#: inc/options.php:77
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/options.php:90
+msgid "Category"
+msgstr ""
+
+#: inc/options.php:104
+msgid "Grid Box"
+msgstr ""
+
+#: inc/options.php:137
+msgid "Numeric"
+msgstr ""
+
+#: inc/options.php:138
+msgid "Older/Newer"
+msgstr ""
+
+#: inc/sections/about.php:113 inc/sections/photo-gallery.php:206
+msgid "Read More"
+msgstr ""
+
+#: inc/sections/banner.php:141
+msgid "Latest blog"
+msgstr ""
+
+#: inc/sections/banner.php:144
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/sections/banner.php:147
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: inc/sections/blog.php:90 inc/template-tags.php:214
+#. translators: used between list items, there is a space after the comma
+msgid " / "
+msgstr ""
+
+#: inc/sections/blog.php:132
+msgid "Our blog"
+msgstr ""
+
+#: inc/sections/blog.php:133
+msgid ""
+"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem "
+"quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id "
+"elit."
+msgstr ""
+
+#: inc/sections/portfolio.php:157
+msgid "All"
+msgstr ""
+
+#: inc/sections/slider.php:176
+msgid "View Details"
+msgstr ""
+
+#: inc/structure.php:63
+msgid "Skip to content"
+msgstr ""
+
+#: inc/template-tags.php:84
+#. translators: %s: Name of current post
+msgid ""
+" <i class=\"fa fa-long-arrow-right\"></i><span "
+"class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/template-tags.php:132
+msgid "Previous"
+msgstr ""
+
+#: inc/template-tags.php:133
+msgid "Next"
+msgstr ""
+
+#: inc/template-tags.php:162
+msgid "Previous Posts"
+msgstr ""
+
+#: inc/template-tags.php:163
+msgid "Next Posts"
+msgstr ""
+
+#: inc/template-tags.php:169
+msgid "Older Posts"
+msgstr ""
+
+#: inc/template-tags.php:170
+msgid "New Posts"
+msgstr ""
+
+#: inc/widgets/instagram.php:31
+msgid "Instagram"
+msgstr ""
+
+#: inc/widgets/instagram.php:42
+msgid "Displays your latest Instagram photos"
+msgstr ""
+
+#: inc/widgets/instagram.php:51
+msgid "TP: Instagram"
+msgstr ""
+
+#: inc/widgets/instagram.php:67
+msgid "Username"
+msgstr ""
+
+#: inc/widgets/instagram.php:72
+msgid "Layout"
+msgstr ""
+
+#: inc/widgets/instagram.php:76
+msgid "1 Column"
+msgstr ""
+
+#: inc/widgets/instagram.php:77
+msgid "2 Column"
+msgstr ""
+
+#: inc/widgets/instagram.php:78
+msgid "3 Column"
+msgstr ""
+
+#: inc/widgets/instagram.php:79
+msgid "4 Column"
+msgstr ""
+
+#: inc/widgets/instagram.php:80
+msgid "5 Column"
+msgstr ""
+
+#: inc/widgets/instagram.php:91
+msgid "Number of photos"
+msgstr ""
+
+#: inc/widgets/instagram.php:96
+msgid "Instagram Image Size"
+msgstr ""
+
+#: inc/widgets/instagram.php:100
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/widgets/instagram.php:101
+msgid "Small"
+msgstr ""
+
+#: inc/widgets/instagram.php:102
+msgid "Large"
+msgstr ""
+
+#: inc/widgets/instagram.php:103
+msgid "Original"
+msgstr ""
+
+#: inc/widgets/instagram.php:115
+msgid "Check to Open Link in new Tab/Window"
+msgstr ""
+
+#: inc/widgets/instagram.php:209
+msgid "Unable to communicate with Instagram."
+msgstr ""
+
+#: inc/widgets/instagram.php:213
+msgid "Instagram did not return a 200."
+msgstr ""
+
+#: inc/widgets/instagram.php:221 inc/widgets/instagram.php:228
+#: inc/widgets/instagram.php:232
+msgid "Instagram has returned invalid data."
+msgstr ""
+
+#: inc/widgets/instagram.php:267
+msgid "Instagram Image"
+msgstr ""
+
+#: inc/widgets/instagram.php:298
+msgid "Instagram did not return any images."
+msgstr ""
+
+#: searchform.php:14
+msgid "search.."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Photo Fusion"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://themepalace.com/downloads/photo-fusion/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Photo Fusion is a Responsive Wordpress photography theme based on Photo "
+"Fusion Pro by ThemePalace. This theme is especially designed for photo "
+"blogging, photo sharing and is perfect to manage your personal, travel, "
+"food and fashion blog. You can manage options of this theme from powerful "
+"WordPress Theme Customizer. Photo Fusion is responsive theme which is "
+"compatible with all types of devices. It support all major modern browsers "
+"and this theme is translation ready. Demo: "
+"http://themepalacedemo.com/photo-fusion/ Support "
+"http://themepalace.com/support-forum/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Theme Palace"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themepalace.com/"
+msgstr ""
+
+#: comments.php:52
+msgctxt "photo-fusion"
+msgid " Comment ( %1$s )"
+msgid_plural "Comments ( %1$s )"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:177
+#. translators: If there are characters in your language that are not supported
+#. by Montserrat Sans, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:182
+#. translators: If there are characters in your language that are not supported
+#. by Courgette, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Courgette font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:187
+#. translators: If there are characters in your language that are not supported
+#. by Roboto, translate this to 'off'. Do not translate into your own language.
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:192
+#. translators: If there are characters in your language that are not supported
+#. by Raleway, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:197
+#. translators: If there are characters in your language that are not supported
+#. by Poppins, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr ""

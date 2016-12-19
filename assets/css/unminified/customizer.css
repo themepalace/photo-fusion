@@ -1,0 +1,16 @@
+/*** Upgrade Button STARTS ***/
+#btn-tp-upgrade{
+  clear: both;
+  display: block;
+  margin-top: 5px;
+}
+#btn-tp-upgrade .btn-upgrade{
+  background-color: #5cb85c;
+  border-color: #4cae4c;
+  color: #fff;
+  box-shadow: none;
+}
+#btn-tp-upgrade .btn-upgrade:hover{
+  background-color: #5c995c;
+}
+/*** Upgrade Button ENDS ***/
